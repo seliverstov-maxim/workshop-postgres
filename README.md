@@ -2,4 +2,4 @@
 
 ## Индексы
 
-[Индексы SQL Server](http://habrahabr.ru/post/247373/)
+[14 вопросов об индексах в SQL Server, которые вы стеснялись задать](http://habrahabr.ru/post/247373/)
