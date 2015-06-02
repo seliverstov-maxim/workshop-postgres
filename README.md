@@ -58,6 +58,8 @@ http://postgresql.ru.net/manual/datatype.html
 * Composite
 * Идентификаторы обьектов
 * Псевдо типы
+* json, jsonb ??
+* hstore ??
 
 ### Теория полнотекстого поиска
 Движки полнотекстового поиска
