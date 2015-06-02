@@ -71,3 +71,5 @@ http://postgresql.ru.net/manual/datatype.html
 ### Интеграция postgresql с Rails
 
 ### Команда explain
+
+### Жизненный цыкл запросов в БД.
