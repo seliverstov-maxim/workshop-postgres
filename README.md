@@ -63,6 +63,7 @@ http://postgresql.ru.net/manual/datatype.html
 * hstore ??
 
 ### Теория полнотекстого поиска
+http://postgresql.ru.net/docs/fullsearch.html
 Движки полнотекстового поиска
 Базы
 Чем движки лучше встроенных решений
