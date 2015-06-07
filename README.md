@@ -69,6 +69,9 @@ http://postgresql.ru.net/docs/fullsearch.html
 Чем движки лучше встроенных решений
 
 ### Отображения в базах данных
+http://postgresql.ru.net/gruber/ch20.html
+http://postgresql.ru.net/manual/tutorial-views.html
+http://www.postgresql.org/docs/9.2/static/sql-createview.html
 
 ### Интеграция postgresql с Rails
 
